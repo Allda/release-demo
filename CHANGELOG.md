@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.1](https://github.com/Allda/release-demo/compare/v0.1.0...v0.1.1) (2023-07-31)
+
+
+### Tests
+
+* Add new unit test ([88d90f1](https://github.com/Allda/release-demo/commit/88d90f117a892ea83314f0c1d8f48604ed84ac2a))
+* Add new unit test for feature 1 ([0d9005f](https://github.com/Allda/release-demo/commit/0d9005fa679bd7f7602e398b4e0899b2285bb25f))
+* Add new unit test for feature 1 ([583995d](https://github.com/Allda/release-demo/commit/583995d29879036e3ff44e040996773efc37e137))
+
 ## 0.1.0 (2023-07-20)
 
 
